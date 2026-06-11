@@ -8,5 +8,5 @@ The traditional method uses trigonomitry, while correct calculating trigonometri
 
 This assignment was the final to my Computational Science class. It was mostly a fun deep dive into how linear algebra is used in important computations 
 such as SVD, Gauss–Seidel method, and Gradient Decent. I thought this would be fun to share since it's a cute visual example.
-Below is a pdf of the 7 step method used.
+The following link is a pdf of the 7 step method used.
 https://imada.sdu.dk/u/rolf/Edu/DM815/E10/2dcollisions.pdf
